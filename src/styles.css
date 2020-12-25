@@ -1,0 +1,35 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: white;
+  width: 500px;
+  margin: 50px auto;
+  padding: 10px;
+}
+.btn {
+  background-color: #ff69b4;
+  color: white;
+  border: #ff69b4;
+  padding: 10px 40px;
+  margin: 10px auto;
+  width: 100%;
+}
+body {
+  background-color: #ff69b4;
+}
+.images {
+  width: 80px;
+  height: 80px;
+  border-radius: 100px;
+}
+.profile {
+  display: flex;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.content {
+  margin-left: 10px;
+}
+p {
+  color: grey;
+}
